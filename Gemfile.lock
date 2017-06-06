@@ -1,4 +1,10 @@
 GIT
+  remote: https://github.com/therealrodk/r_k_view_tool
+  revision: 766b7574e1350ba2d3f452e076f55fa526553380
+  specs:
+    r_k_view_tool (0.1.0)
+
+GIT
   remote: https://github.com/twbs/bootstrap-rubygem
   revision: 7cdeca9a0e8db3bb7548d9fa5bdaad9b644fca32
   specs:
@@ -203,6 +209,7 @@ DEPENDENCIES
   pg (~> 0.18)
   pry-byebug
   puma (~> 3.7)
+  r_k_view_tool!
   rails (~> 5.1.0)
   sass-rails (~> 5.0)
   spring

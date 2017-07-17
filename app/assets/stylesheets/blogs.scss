@@ -153,6 +153,16 @@ h6, .h6 {
   color: #999;
 }
 
+#blog-topic {
+  font-style: italic;
+  font-size: 0.8em;
+  color: #ABCEE9;
+}
+
+#new-blog-link {
+  margin-right: 15px;
+}
+
 
 /*
  * Footer
@@ -190,4 +200,17 @@ h6, .h6 {
 
 .comment-name {
   font-weight: 700;
+}
+
+.blogcrumb a {
+  font-size: 1.25em;
+  margin: 0px 10px;
+}
+
+.blog-nav {
+  margin-bottom: 30px;
+}
+
+.blog-sidebar-source {
+  margin-top: 20px;
 }
